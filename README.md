@@ -18,8 +18,12 @@ Tecnologias
  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material"  />
  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux"  />
  <img src="https://img.shields.io/badge/-Nextjs-000000?style=for-the-badge&logo=nextdotjs" alt="nextjs"/>
- <img src="https://img.shields.io/badge/-Nextjs-000000?style=for-the-badge&logo=nextdotjs" alt="nextjs"/>
- <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="mongodb"/>
+ <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="expressjs"/>
+ <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge" alt="mongodb"/>
+ <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge" alt="nodejs"/> <img src="" alt=""/>
+ <img src="" alt=""/>
+
+
  
  
  <h2>
