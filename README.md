@@ -21,7 +21,7 @@ Technologies
 
 ## Profile
 <img src="https://github-readme-stats.vercel.app/api?username=LifeAsDev&theme=blue-green" alt="stats"  />
-
+<a href="http://www.github.com/LifeAsDev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LifeAsDev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LifeAsDev&theme=blue-green" alt="readme"  />
 
 
